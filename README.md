@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/9ccdb214-aa97-491f-b5d4-ea0ca94b844a/thumbnail" >
+</p>
 
 <!--
 **Condor-OfSol/Condor-OfSol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
